@@ -23,6 +23,10 @@
 - [GPT4 API Waitlist](https://openai.com/waitlist/gpt-4-api)
     - With priority API access to developers that contribute exceptional model evaluations to [OpenAI Evals](https://github.com/openai/evals)
 
+### Pricing for GPT-4 API [(Source)](https://help.openai.com/en/articles/7127956-how-much-does-gpt-4-cost):
+- For models with 8k context lengths (e.g. gpt-4 and gpt-4-0314), the price is: $0.03/1k prompt tokens, and $0.06/1k sampled tokens.
+- For models with 32k context lengths (e.g. gpt-4-32k and gpt-4-32k-0314), the price is: $0.06/1k prompt tokens, and $0.12/1k sampled tokens.
+
 ### Technical documents:
 - [GPT-4 Technical Report from OpenAI](https://cdn.openai.com/papers/gpt-4.pdf)
 
