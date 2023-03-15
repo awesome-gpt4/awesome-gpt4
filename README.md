@@ -1,7 +1,7 @@
 # 🤖 Awesome GPT4
 ⚡ An up-to-date collection of the best resources, tools and uses of GPT4 from OpenAI. ⚡
 
-### Awesome Prompts / Demos / Use cases:
+### Awesome GPT4 Prompts / Demos / Use cases:
 - [GPT-4 Developer Livestream](https://www.youtube.com/watch?v=outcGtbnMuQ)
 - [Programming Assistant](https://twitter.com/gjohnsx/status/1635741635437887492)
 - [Be My Eyes (Visual assistant)](https://twitter.com/BeMyEyes/status/1635690254689599488)
