@@ -1,3 +1,5 @@
+# 🤖 Awesome GPT4
+⚡ An up-to-date collection of the best resources, tools and uses of GPT4 from OpenAI. ⚡
 
 ### Introduction of GPT4:
 - [OpenAI GPT-4 webpage](https://openai.com/product/gpt-4)
