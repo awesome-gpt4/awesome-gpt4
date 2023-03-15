@@ -4,7 +4,8 @@
 ### Prompts / Use cases:
 - [GPT-4 Developer Livestream](https://www.youtube.com/watch?v=outcGtbnMuQ)
 - [Programming Assistant](https://twitter.com/gjohnsx/status/1635741635437887492)
-
+- [Be My Eyes (Visual assistant)](https://twitter.com/BeMyEyes/status/1635690254689599488)
+- 
 ### Introduction of GPT4:
 - [OpenAI GPT-4 webpage](https://openai.com/product/gpt-4)
 - [Twitter announcement](https://twitter.com/OpenAI/status/1635687373060317185)
