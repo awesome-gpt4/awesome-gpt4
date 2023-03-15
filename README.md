@@ -3,6 +3,7 @@
 
 ### Awesome GPT4 Prompts / Demos / Use cases:
 - [GPT-4 Developer Livestream](https://www.youtube.com/watch?v=outcGtbnMuQ)
+- [Doing taxes](https://twitter.com/theLionary/status/1635780533186875393)
 - [Programming Assistant](https://twitter.com/gjohnsx/status/1635741635437887492)
 - [Be My Eyes (Visual assistant)](https://twitter.com/BeMyEyes/status/1635690254689599488)
 - [Hand-drawn pencil drawing -> Website](https://twitter.com/gdb/status/1635826383141376002)
