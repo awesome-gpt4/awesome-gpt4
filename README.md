@@ -6,6 +6,7 @@
 - [Programming Assistant](https://twitter.com/gjohnsx/status/1635741635437887492)
 - [Be My Eyes (Visual assistant)](https://twitter.com/BeMyEyes/status/1635690254689599488)
 - [Hand-drawn pencil drawing -> Website](https://twitter.com/gdb/status/1635826383141376002)
+- [GPT-4 Khan Academy In Depth Demo](https://www.youtube.com/watch?v=rnIgnS8Susg)
 
 ### Introduction of GPT4:
 - [OpenAI GPT-4 webpage](https://openai.com/product/gpt-4)
