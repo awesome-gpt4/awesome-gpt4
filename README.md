@@ -13,5 +13,10 @@
 - [GPT4 API Waitlist](https://openai.com/waitlist/gpt-4-api)
     - With priority API access to developers that contribute exceptional model evaluations to [OpenAI Evals](https://github.com/openai/evals)
 
-### Use-cases:
+### Use cases:
 - [GPT-4 Developer Livestream](https://www.youtube.com/watch?v=outcGtbnMuQ)
+
+### Discussion threads:
+- [GPT-4 thread on Hacker News, March 14, 2023](https://news.ycombinator.com/item?id=35154527)
+- [GPT-4 thread on /r/OpenAI](https://www.reddit.com/r/OpenAI/comments/11rc1yw/official_gpt_4_launched/)
+- [GPT-4 thread on /r/ChatGPT](https://www.reddit.com/r/ChatGPT/comments/11rbt0l/gpt4_released/)
