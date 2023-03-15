@@ -1,16 +1,15 @@
-### Hi there 👋
+### Introduction of GPT4:
+https://openai.com/product/gpt-4
+https://twitter.com/OpenAI/status/1635687373060317185
+https://www.youtube.com/watch?v=TxkJMX0KyS0
 
-<!--
-**awesome-gpt4/awesome-gpt4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### How to get access to use GPT4:
+https://chat.openai.com
+https://poe.com
+https://bing.com/chat
 
-Here are some ideas to get you started:
+### How to get access to use GPT4 API:
+GPT4 API Waitlist: https://openai.com/waitlist/gpt-4-api
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Use-cases:
+GPT-4 Developer Livestream: https://www.youtube.com/watch?v=outcGtbnMuQ
