@@ -22,6 +22,6 @@
 - [GPT-4 Technical Report from OpenAI](https://cdn.openai.com/papers/gpt-4.pdf)
 
 ### Discussion threads:
-- [GPT-4 thread on Hacker News, March 14, 2023](https://news.ycombinator.com/item?id=35154527)
-- [GPT-4 thread on /r/OpenAI](https://www.reddit.com/r/OpenAI/comments/11rc1yw/official_gpt_4_launched/)
-- [GPT-4 thread on /r/ChatGPT](https://www.reddit.com/r/ChatGPT/comments/11rbt0l/gpt4_released/)
+- [Thread on Hacker News, March 14, 2023](https://news.ycombinator.com/item?id=35154527)
+- [Thread on /r/OpenAI](https://www.reddit.com/r/OpenAI/comments/11rc1yw/official_gpt_4_launched/)
+- [Thread on /r/ChatGPT](https://www.reddit.com/r/ChatGPT/comments/11rbt0l/gpt4_released/)
