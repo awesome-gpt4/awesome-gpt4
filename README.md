@@ -18,6 +18,9 @@
 ### Use cases:
 - [GPT-4 Developer Livestream](https://www.youtube.com/watch?v=outcGtbnMuQ)
 
+### Technical documents:
+- [GPT-4 Technical Report from OpenAI](https://cdn.openai.com/papers/gpt-4.pdf)
+
 ### Discussion threads:
 - [GPT-4 thread on Hacker News, March 14, 2023](https://news.ycombinator.com/item?id=35154527)
 - [GPT-4 thread on /r/OpenAI](https://www.reddit.com/r/OpenAI/comments/11rc1yw/official_gpt_4_launched/)
