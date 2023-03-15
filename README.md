@@ -1,6 +1,10 @@
 # 🤖 Awesome GPT4
 ⚡ An up-to-date collection of the best resources, tools and uses of GPT4 from OpenAI. ⚡
 
+### Prompts / Use cases:
+- [GPT-4 Developer Livestream](https://www.youtube.com/watch?v=outcGtbnMuQ)
+- [Programming Assistant](https://twitter.com/gjohnsx/status/1635741635437887492)
+
 ### Introduction of GPT4:
 - [OpenAI GPT-4 webpage](https://openai.com/product/gpt-4)
 - [Twitter announcement](https://twitter.com/OpenAI/status/1635687373060317185)
@@ -14,9 +18,6 @@
 ### How to get access to use GPT4 API:
 - [GPT4 API Waitlist](https://openai.com/waitlist/gpt-4-api)
     - With priority API access to developers that contribute exceptional model evaluations to [OpenAI Evals](https://github.com/openai/evals)
-
-### Use cases:
-- [GPT-4 Developer Livestream](https://www.youtube.com/watch?v=outcGtbnMuQ)
 
 ### Technical documents:
 - [GPT-4 Technical Report from OpenAI](https://cdn.openai.com/papers/gpt-4.pdf)
