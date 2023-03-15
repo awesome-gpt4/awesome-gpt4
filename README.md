@@ -11,6 +11,7 @@
 
 ### How to get access to use GPT4 API:
 - [GPT4 API Waitlist](https://openai.com/waitlist/gpt-4-api)
+    - With priority API access to developers that contribute exceptional model evaluations to [OpenAI Evals](https://github.com/openai/evals)
 
 ### Use-cases:
 - [GPT-4 Developer Livestream](https://www.youtube.com/watch?v=outcGtbnMuQ)
