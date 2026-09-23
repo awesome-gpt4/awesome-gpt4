@@ -2,6 +2,7 @@
 ⚡ An up-to-date collection of the best resources, tools and uses of GPT4 from OpenAI. ⚡
 
 ### Awesome GPT4 Prompts / Demos / Use cases:
+- [MagicKit](https://kaketiti.github.io) - Free AI tools collection - 66+ tools, zero registration, zero API key required
 - [GPT-4 Developer Livestream](https://www.youtube.com/watch?v=outcGtbnMuQ)
 - [Doing taxes](https://twitter.com/theLionary/status/1635780533186875393)
 - [Programming Assistant](https://twitter.com/gjohnsx/status/1635741635437887492)
