@@ -8,6 +8,7 @@
 - [Be My Eyes (Visual assistant)](https://twitter.com/BeMyEyes/status/1635690254689599488)
 - [Hand-drawn pencil drawing -> Website](https://twitter.com/gdb/status/1635826383141376002)
 - [GPT-4 Khan Academy In Depth Demo](https://www.youtube.com/watch?v=rnIgnS8Susg)
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) - Remote MCP server and ChatGPT app for searching 18,000+ verified independent live-music venues across the US and Canada.
 
 ### Introduction of GPT4:
 - [OpenAI GPT-4 webpage](https://openai.com/product/gpt-4)
